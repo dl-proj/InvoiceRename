@@ -3,7 +3,7 @@
 ## Overview
 
 This project is to extract the invoice number from the pdf file on AWS s3 bucket using AWS Textract and move the file into
-the renamed file with the extracted invoice number on the new s3 bucket.
+the renamed file with the extracted invoice number on the new s3 bucket. This project is used as a Lambda function.
 
 ## Structure
 
